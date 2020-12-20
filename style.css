@@ -19,6 +19,5 @@
 }
 canvas{
     border:5px black ridge;
-    box-shadow:1px 1px 5px violet, 2px 2px 5px indigo, 3px 3px 5px blue, 4px 4px 5px green, 5px 5px 5px yellow, 6px 6px 5px orange,7px 7px 5px red;
-    box-shadow:-1px -1px 5px violet, -2px -2px 5px indigo, -3px -3px 5px blue, -4px -4px 5px green, -5px -5px 5px yellow, -6px -6px 5px orange,-7px -7px 5px red;
+    box-shadow:5px 5px 13px black;
 }
